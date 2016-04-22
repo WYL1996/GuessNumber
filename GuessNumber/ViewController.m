@@ -43,7 +43,7 @@
     }else if([textField.text intValue]){
         label.text=@"猜小了🐷";
     }else{
-        label.text=@"猜对了💅";
+        label.text=@"猜对了💅 给你一个么么哒";
     }
     
 }
